@@ -1,2 +1,2 @@
 # PrimoAndCoco
-Practica básica de como funcionan la herencia y las interfáses mediante un ejemplo de numeros primos, y una descripción de un monstruo.
+Practica básica de java sobre como funcionan la herencia y las interfases mediante un ejemplo de numeros primos, y una descripción de un monstruo.
